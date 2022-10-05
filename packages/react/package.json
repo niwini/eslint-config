@@ -1,9 +1,9 @@
 {
   "name": "@niwini/eslint-config-react",
   "packageManager": "yarn@3.2.1",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "dependencies": {
-    "@niwini/eslint-config-base": "^0.1.0",
+    "@niwini/eslint-config-base": "^0.0.0",
     "eslint-plugin-react": "^7.31.8"
   },
   "peerDependencies": {
